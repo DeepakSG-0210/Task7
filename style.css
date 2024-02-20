@@ -48,7 +48,7 @@ button:hover{
     justify-content: space-around;
     flex-direction: column;
     padding: 10px;
-    word-wrap: break-word;
+    overflow-wrap: break-word;
     word-break: break-all;
 }
 
